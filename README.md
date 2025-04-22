@@ -6,7 +6,7 @@ Overview of HR Raw Data in a Company:
 -------------------------------------
 The HR data contains all the basic details of employees in a company. It includes: Department, job-role, age,Business-Tavel,status,Gender,Performance rating,Salary etc...
 
-HR Dashboard Summary:
+# HR Dashboard Summary:
 
 - Total Employees & Age- The company has 1233 employees.
 - The average age of employees is 35.
